@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 Hi there！I'm [LiuGuanHua](http://lgh930.com/) 👋
 
-### ⚒️ Languages and Tools:
+### ⚒️ Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=for-the-badge&logo=typescript)
