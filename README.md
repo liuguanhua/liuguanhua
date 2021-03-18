@@ -1,6 +1,6 @@
-### Hi there I'm liuguanhua 👋
+### 👨🏻‍💻 Hi there！I'm [LiuGuanHua](http://lgh930.com/) 👋
 
-### Languages and Tools:
+### ⚒️ Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=for-the-badge&logo=typescript)
@@ -14,7 +14,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/-Docker-%232081e8?style=for-the-badge&logo=docker&logoColor=fff)
 
-<!-- 
+<!--
 ![jQuery](https://img.shields.io/badge/-jQuery-%230769AD?style=for-the-badge&logo=jQuery&logoColor=%23ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
@@ -25,7 +25,7 @@
 ![Gulp](https://img.shields.io/badge/-Gulp-%23CF4647?style=for-the-badge&logo=gulp&logoColor=%23ffffff) -->
 
 
-### My Github
+### 📈 My Github
 
 ![liuguanhua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuguanhua&show_icons=true&theme=tokyonight&count_private=true)
 
