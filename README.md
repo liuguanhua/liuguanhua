@@ -15,12 +15,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=%23ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
 ![Gulp](https://img.shields.io/badge/-Gulp-%23CF4647?style=for-the-badge&logo=gulp&logoColor=%23ffffff)
-<!-- ![Rollup](https://img.shields.io/badge/-Rollup.js-%23434343?style=for-the-badge&logo=rollup.js) -->
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-<!-- ![Subversion](https://img.shields.io/badge/-Subversion-%23809CC9?style=for-the-badge&logo=Subversion&logoColor=%23ffffff) -->
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/-Docker-%232081e8?style=for-the-badge&logo=docker&logoColor=fff)
-<!-- ![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-%2331A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=%23ffffff) -->
+<!-- ![Rollup](https://img.shields.io/badge/-Rollup.js-%23434343?style=for-the-badge&logo=rollup.js)
+![Subversion](https://img.shields.io/badge/-Subversion-%23809CC9?style=for-the-badge&logo=Subversion&logoColor=%23ffffff)
+![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-%2331A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=%23ffffff) -->
 
 
 ### My Github
