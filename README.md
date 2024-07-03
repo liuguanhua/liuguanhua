@@ -24,11 +24,11 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-%2331A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=%23ffffff)
 ![Gulp](https://img.shields.io/badge/-Gulp-%23CF4647?style=for-the-badge&logo=gulp&logoColor=%23ffffff) -->
 
-
+<!--
 ### 📈 My Github
 
 ![liuguanhua's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuguanhua&show_icons=true&theme=tokyonight&count_private=true)
-
+-->
 <!--
 **liuguanhua/liuguanhua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
